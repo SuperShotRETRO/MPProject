@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mpprojectrecovery"
+    namespace = "com.example.mpproject"
     compileSdk = 34
 
     defaultConfig {
